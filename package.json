@@ -1,6 +1,6 @@
 {
   "private": true,
-  "description": "chartjs-plugin-annotation should compile with all supported TS versions",
+  "description": "chart.jsh ttps://github.com/chartjs/Chart.js/issues/11288",
   "scripts": {
     "test": "node node_modules/typescript/bin/tsc index.ts"
   },
